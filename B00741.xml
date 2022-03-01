@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Spanish tragedy, containing the lamentable murders of Horatio and Bellimperia: with the pitifull death of old Hieronimo. To the tune of Queene Dido..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00741</idno>
+            <idno type="STC">STC 23012</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[364]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[390a]</idno>
+            <idno type="EEBO-CITATION">99884420</idno>
+            <idno type="PROQUEST">ocm99884420</idno>
+            <idno type="VID">183108</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183108)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[192]; A5:1[207a])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Spanish tragedy, containing the lamentable murders of Horatio and Bellimperia: with the pitifull death of old Hieronimo. To the tune of Queene Dido..</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>For H. Gosson.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1620?].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "You that haue lost your former ioyes ..."</note>
+                  <note>Item at reel A5:1[207a] has Solomons sacrifice (STC 22904) printed on verso.</note>
+                  <note>Imperfect: copy at reel A5:1[207a] lacks "The second part. To the same tune."</note>
+                  <note>Reproductions of originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183108:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>The Spaniſh Tragedy, Containing the lamentable Murders of <hi>Horatio</hi> and <hi>Bellimperia:</hi> With the pi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tifull Death of old <hi>Hieronimo.</hi>
+            </head>
+            <opener>To the tune of <hi>Queene Dido.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure>
+                     <sp>
+                        <p>Alas it is my son Horatio.</p>
+                     </sp>
+                     <sp>
+                        <p>Murder, helpe Hieronimo</p>
+                     </sp>
+                     <sp>
+                        <p>Stop þer mouth</p>
+                     </sp>
+                  </figure>
+               </p>
+               <lg>
+                  <l>YOu that haue loſt you former ioyes,</l>
+                  <l>And now in woe your liues doe leade:</l>
+                  <l>Féeding on nought but dire annoyes,</l>
+                  <l>Thinking your griefes all griefes excéede.</l>
+                  <l>Aſſure your ſelues it is not ſo:</l>
+                  <l>Loe here a ſight of greater woe.</l>
+               </lg>
+               <lg>
+                  <l>Hapleſſ <hi>Hieromino</hi> was my name,</l>
+                  <l>On whom fond fortune ſmtied long:</l>
+                  <l>But now her flattering ſmiles &amp; blame,</l>
+                  <l>Her flattering ſmiles hath done me wrong.</l>
+                  <l>Would I had dyed in tender yeares:</l>
+                  <l>Then had not béene this cauſe of teares.</l>
+               </lg>
+               <lg>
+                  <l>I Marſhall was in prime of yeares,</l>
+                  <l>And wonne great honour in the fielde:</l>
+                  <l>Vntill that age with ſi<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uered haires,</l>
+                  <l>My aged head had ouerſpred</l>
+                  <l>Then left I warre and ſtayde at home:</l>
+                  <l>And gaue my honour to my ſonne.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Horatio</hi> my ſwéet onely childe,</l>
+                  <l>Prickt-foorth by fames aſpiring wings:</l>
+                  <l>Did ſo behaue him in the fielde,</l>
+                  <l>That he Prince <hi>Baltazer</hi> Captiue brings.</l>
+                  <l>And with great honour did preſent:</l>
+                  <l>Him to the King Incontinent.</l>
+               </lg>
+               <lg>
+                  <l>The Duke of <hi>Caſtyles</hi> Daughter then.</l>
+                  <l>Deſir'd <hi>Horatio</hi> to relate:</l>
+                  <l>The death of her beloued friend,</l>
+                  <l>Her loue <hi>Andreas</hi> woofull fate.</l>
+                  <l>But when ſhe knew who had him ſlaine:</l>
+                  <l>Shee vow'd ſhe would reuenge the ſame.</l>
+               </lg>
+               <lg>
+                  <l>Then more to vexe Prince <hi>Baltazer,</hi>
+                  </l>
+                  <l>Becauſe be ſlewe her chiefeſt friend:</l>
+                  <l>She choſe my ſonne for her chiefe flower,</l>
+                  <l>Thereby meaning to worke reuenge.</l>
+                  <l>But marke what then did ſtraight befall:</l>
+                  <l>To turne my ſweete to bitter gall.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Lorenzo</hi> then to finde the cauſe,</l>
+                  <l>Why coat his ſiſter was vnkinde:</l>
+                  <l>At laſt he found within a pauſe,</l>
+                  <l>How he might ſounde her ſecret minde.</l>
+                  <l>Which or to bring well to effect;</l>
+                  <l>To fetch her man he doth direct.</l>
+               </lg>
+               <lg>
+                  <l>Who being come into his ſight,</l>
+                  <l>H<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> threatneth for to rid his life:</l>
+                  <l>Excep<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſtraight wayes he ſhould recite,</l>
+                  <l>His ſiſters loue, the cauſe of ſtrife.</l>
+                  <l>Compell'd therefore to vnfold his mind:</l>
+                  <l>Sayd with <hi>Horatio</hi> ſhee's combinde.</l>
+               </lg>
+               <lg>
+                  <l>The Villaine then for hope of gaine,</l>
+                  <l>Did ſtraight conuaye them to the place:</l>
+                  <l>Where theſe too louers did remaine,</l>
+                  <l>Ioying in ſight of others face.</l>
+                  <l>And to their foes they did impart:</l>
+                  <l>The place where they ſhould ioy their heart.</l>
+               </lg>
+               <lg>
+                  <l>Prince <hi>Baltazer</hi> with his compeeres,</l>
+                  <l>Enters my bower all in the night,</l>
+                  <l>And there my ſonne ſlayne they vpreare,</l>
+                  <l>The more to worke my greater ſpight.</l>
+                  <l>But as I laye and toke repoſe<g ref="char:punc">▪</g>
+                  </l>
+                  <l>A voyce I hard, whereat I roſe.</l>
+               </lg>
+               <lg>
+                  <l>And finding then his ſenſleſſe forme</l>
+                  <l>The murtherers I ſought to finde,</l>
+                  <l>But miſſing them I ſtood forlorne,</l>
+                  <l>As one amaſed in his minde.</l>
+                  <l>And rent and puld my ſiluered haire,</l>
+                  <l>And curſ'd and bann'd each thing was there.</l>
+               </lg>
+               <lg>
+                  <l>And that I would reuenge the ſame,</l>
+                  <l>I dipt a napkin in his blood:</l>
+                  <l>Swearing to worke their woefull baine,</l>
+                  <l>That ſo had ſpoyl'd my cheifeſt good.</l>
+                  <l>And that I would not it forget:</l>
+                  <l>It allwayes at my hart I kept.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part</head>
+               <opener>To the ſame tune.</opener>
+               <lg>
+                  <l>THen <hi>Iſabella</hi> my deare wyfe,</l>
+                  <l>Finding her ſonne bereau'd of breath,</l>
+                  <l>And louing him dearer then life</l>
+                  <l>Her owne hand ſtraight doth worke her death.</l>
+                  <l>And now their deaths doth meet in one:</l>
+                  <l>My griefes are come, my Ioyes are gone.</l>
+               </lg>
+               <lg>
+                  <l>Then frantickly I ran about,</l>
+                  <l>Filling the ayre with mournefull groanes,</l>
+                  <l>Becauſe I had not yet found out</l>
+                  <l>The murtherers to eaſe my mones.</l>
+                  <l>I rent and tore each thing I got,</l>
+                  <l>And ſayd, and did, I knew not what.</l>
+               </lg>
+               <lg>
+                  <l>Thus as I paſt the ſtreets, hard by</l>
+                  <l>The Duke of <hi>Caſtiles</hi> houſe as then</l>
+                  <l>A Letter there I did eſpy,</l>
+                  <l>Which ſhow'd <hi>Horatios</hi> wofull end.</l>
+                  <l>Which <hi>Bellimperia</hi> foorth had flung.</l>
+                  <l>From priſon where they kept her ſtrong.</l>
+               </lg>
+               <lg>
+                  <l>Then to the Court forthwith I went,</l>
+                  <l>And of the King did Iuſtice craue,</l>
+                  <l>But by <hi>Lorenzos</hi> bad intent,</l>
+                  <l>I hindred was, which made me raue.</l>
+                  <l>Then vexed more I ſtamp'd and frown'd,</l>
+                  <l>And with my ponyard ript the ground.</l>
+               </lg>
+               <lg>
+                  <l>But falſe <hi>Lorenzo</hi> put mee out,</l>
+                  <l>And tolde the King then by and by,</l>
+                  <l>That frantickly I ran about,</l>
+                  <l>And of my ſonne did alwayes cry,</l>
+                  <l>And ſay'd twere good I ſhould reſigne:</l>
+                  <l>My Marſhall-ſhip which grieu'd my mind.</l>
+               </lg>
+               <lg>
+                  <l>The Duke of <hi>Caſtyle</hi> hearing then,</l>
+                  <l>How I did grudge ſtill at his ſonne,</l>
+                  <l>Did ſend for me to make vs friends:</l>
+                  <l>To ſtay the rumour then begune.</l>
+                  <l>Whereto I ſtraight way gaue conſent:</l>
+                  <l>Although in heart I neuer meant.</l>
+               </lg>
+               <lg>
+                  <l>Sweete <hi>Bellimperia</hi> comes to me,</l>
+                  <l>Thinking my ſonne I had forgot,</l>
+                  <l>To ſee me with his foes agree,</l>
+                  <l>The which I neuer meant God wot:</l>
+                  <l>But when wee knew each others mind,</l>
+                  <l>To worke reuenge a meane I find.</l>
+               </lg>
+               <lg>
+                  <l>Then Bloody <hi>Baltazar</hi> enters in</l>
+                  <l>Entreating me to ſhow ſome ſport,</l>
+                  <l>Vnto his Father and the King:</l>
+                  <l>That to his nuptiall did reſort.</l>
+                  <l>Which gladly I prepar'd to ſhow.</l>
+                  <l>Becauſe I knew twoul'd worke their woe.</l>
+               </lg>
+               <lg>
+                  <l>And from the Chronicles of <hi>Spaine,</hi>
+                  </l>
+                  <l>I did record <hi>Eraſtus</hi> life,</l>
+                  <l>And how the <hi>Turke</hi> had him ſo ſlayne:</l>
+                  <l>And ſtraight reuenge wrought by his wife.</l>
+                  <l>Then for to act this Tragedy:</l>
+                  <l>I gaue their parts Immediatly.</l>
+               </lg>
+               <lg>
+                  <l>Sweete <hi>Bellimperia Baltazar</hi> killes,</l>
+                  <l>Becauſe he ſlew her deareſt friend,</l>
+                  <l>And I <hi>Lorenzos</hi> blood did ſpill,</l>
+                  <l>And eke his ſoule to hell did ſend.</l>
+                  <l>Then dyed my foes by dint of knife,</l>
+                  <l>But <hi>Bellimperia</hi> ends her life.</l>
+               </lg>
+               <lg>
+                  <l>Then for to ſpecific my wronges,</l>
+                  <l>With weeping eyes and mournefull hart,</l>
+                  <l>I ſhew'd my ſonne with bloody wounds,</l>
+                  <l>And eke the murtherers did impart.</l>
+                  <l>And ſayd my ſonne was as deare to me:</l>
+                  <l>as thine, or thine, though Kinges you be.</l>
+               </lg>
+               <lg>
+                  <l>But when they did behold this thing.</l>
+                  <l>How I had ſlayne their onely ſonnes:</l>
+                  <l>The Duke, the Viceroy, and the King,</l>
+                  <l>Vppon me all they ſtraight did run.</l>
+                  <l>To torture me they doe prepare,</l>
+                  <l>Vnleſſe I ſhould it ſtraight declare.</l>
+               </lg>
+               <lg>
+                  <l>But that I would not tell it then,</l>
+                  <l>Euen with my téeth I bit my tongue,</l>
+                  <l>And in deſpite did giue it them,</l>
+                  <l>That me with torments ſought to wrong:</l>
+                  <l>Thus when in age I ſought to reſt,</l>
+                  <l>Nothing but ſorrowes me oppreſt.</l>
+               </lg>
+               <lg>
+                  <l>They knowing well that I could write,</l>
+                  <l>Vnto my hand a pen did reach,</l>
+                  <l>Meaning thereby I ſhould recite,</l>
+                  <l>The authors of this bloody f<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ch.</l>
+                  <l>Then fained I my pen was naught</l>
+                  <l>And by ſtrange ſignes a knife I ſought.</l>
+               </lg>
+               <lg>
+                  <l>But when to me they gaue the knife.</l>
+                  <l>I kill'd the Dake then ſtanding by,</l>
+                  <l>And eke my ſelfe bereau'd of life,</l>
+                  <l>For I to ſée my ſonne did hye.</l>
+                  <l>The Kinges that ſcorn'd my griefes before,</l>
+                  <l>With nought can they theire Ioyes reſtore;</l>
+               </lg>
+               <lg>
+                  <l>Here haue you heard my Tragicke tale.</l>
+                  <l>Which on <hi>Horatio's</hi> death depends,</l>
+                  <l>Whoſe death I could anew bewayle:</l>
+                  <l>But that in it the murtherers ends,</l>
+                  <l>For murther god will bring to light:</l>
+                  <l>Though long it be his from mans ſight.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>H. Goſſon<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
